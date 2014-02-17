@@ -1,5 +1,5 @@
 ![Snoop dancing](snoop.gif "Snoop dancing")
 
-# snoop
+# [snoop](http://chrisnager.com/snoop)
 
 Tribute to Snoop
